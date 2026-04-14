@@ -186,7 +186,7 @@
     },
     {
         "title": "Memento",
-        "genre": "Mystery",K
+        "genre": "Mystery",
         "rating": 8.4
     },
     {
@@ -298,5 +298,10 @@
         "title": "Good Will Hunting",
         "genre": "Drama",
         "rating": 8.3
+    },
+    {
+        "title": "Lagaan",
+        "genre": "Sports",
+        "rating": 8.1
     }
 ]
