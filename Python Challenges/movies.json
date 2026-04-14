@@ -303,5 +303,10 @@
         "title": "Lagaan",
         "genre": "Sports",
         "rating": 8.1
+    },
+    {
+        "title": "Deool",
+        "genre": "Drama",
+        "rating": 8.2
     }
 ]
